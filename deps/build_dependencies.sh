@@ -30,6 +30,7 @@ emmake make -j
 
 # Build Zint
 cd $CWD/zint
+git checkout master
 mkdir build
 cd build
 emcmake cmake ../ \
