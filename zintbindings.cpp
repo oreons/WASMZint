@@ -239,7 +239,6 @@ private:
     PROPS_ZINT(option_2, int)
     PROPS_ZINT(option_3, int)
     PROPS_ZINT(show_hrt, bool)
-    PROPS_ZINT(fontsize, int)
     PROPS_ZINT(input_mode, int)
     PROPS_ZINT(eci, int)
     PROPS_ZINT(dot_size, float)
